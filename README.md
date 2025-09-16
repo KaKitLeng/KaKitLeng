@@ -43,7 +43,7 @@ I'm passionate about creating applications to improve people's daily life. I asp
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=ffffff)
 
 ### Enterprise Software
-![Ellucian Banner](https://img.shields.io/badge/Ellucian_Banner-0066CC?style=for-the-badge&logoColor=ffffff)
+![Ellucian Banner](https://img.shields.io/badge/Ellucian_Banner-7100eb?style=for-the-badge&logoColor=ffffff)
 
 ### Cloud & DevOps
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=ffffff)
