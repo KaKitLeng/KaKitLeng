@@ -59,12 +59,3 @@ I'm passionate about creating applications to improve people's daily life. I asp
 </div>
 
 ---
-
-## Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaKitLeng&theme=tokyo-night&hide_border=true" />
-</div>
-
-
-
